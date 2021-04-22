@@ -1,0 +1,49 @@
+
+#cabecera{
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    border: 10px dashed blue;
+    background: red;
+    box-shadow: 0px 4px 10px cyan;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+} 
+.textu{
+    background: lightblue;
+    top
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div1{
+    position: relative;
+    background: lightyellow;
+    display: inline-block;
+}
+.parrr{
+    background: lightcoral;
+    float: right;
+    width: 100px;
+    
+}
+.destacado{
+    font-size: 30px;
+}
+body{
+
+}
+nav ul{
+
+}
+section #noticias h3 a.destacado{}
+#cabecera p.descripcion{}
+.bueno p li.desactivado{}
+footer nav#nav_footer li{}
+a{}
+
+
+
+[[[[contenido]padding]border]margin]
+Top right bottom left
+background: url("") top left no-repeat;

@@ -1,0 +1,48 @@
+var ten =10;
+console.log(ten*ten)
+#arreglos
+var numbers = [5,10,15,20,25];
+var names=[]
+numbers[2]
+#objetos
+var fruit ={
+    kind: "grape",
+    color: "purple",
+    quantity:12,
+    tasty: true
+},{
+    kind:"banana",
+    color:"red"
+};
+fruit[0].kind==grape
+fruit[1].kind==banana
+var jsonFruit ={
+    "kind":"grape",
+    "color":"red"
+}
+><=!==
+#condiciones
+if(edad<18){
+    console.log(nombre + "es menor de edad");
+}
+else if();{}
+else();{}
+
+for(inicio,test,update) {
+}
+for(var i = 0;i<5;i++){
+    console.log(i);
+}
+
+#funciones
+
+var sqare = function(x){
+    return(x*x);
+}
+var makeNoise = function({
+    console.log("Pling!");
+};)
+makeNoise();
+
+#como referenciar
+<scripy type="text/javascript" src="nombrearchivo.js"><script> 

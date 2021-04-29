@@ -1,7 +1,7 @@
 
 #cuerpo{
     background-color: whitesmoke;
-    background: url("17778a014b11722.gif") top left repeat;
+    
 
 }
 #cabecera{
@@ -25,8 +25,16 @@
     color: yellow;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.titulo{
+.tituloP{
     background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+
+}
+.titulo{
+    color: yellow;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -59,6 +67,7 @@
     box-shadow: 3px 5px 5px 5px red; 
 }
 .div1{
+    background-color: black;
     margin: 20px;
     padding: 5px;
     color: yellow;
@@ -67,7 +76,6 @@
     display:list-item;
 }
 .parrafo{
-    background-color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;

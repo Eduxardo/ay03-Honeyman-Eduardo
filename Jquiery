@@ -1,0 +1,31 @@
+var title =$("#titulo")
+formageneral
+$(selector).accion(...)
+var titleId=$("h1").attr("id")
+$(document).redy(function(){
+
+});
+
+
+$(selector).attr(nombre_del_atributo)
+
+$("circulo").attr("radio")
+
+$(selector).text("texto_a_setear")
+$(selector).append("texto_por_agreagar")
+"interacciones"
+$(selector).mouseenter(.....)
+$(selector).mouseleave(.....)
+$(selector).hover(arg_entrada,arg_salida)
+$(selector).show()
+$(selector).hide()
+$(selector).fadeTo("velocidad",transparencia)
+$(selector).click(...)
+$(selector).on("click",...)
+
+"ej"
+var mapa = $(".comuna");
+mapa.mouseenter(function(){
+    var nombre= $(this).attr("id");
+    console.log(nombre)
+}); 
